@@ -1,0 +1,6 @@
+Il tuo ordine è: 
+MARGHERITA
+MARINARA
+ORTOLANA
+Il totale del tuo ordine è: 
+12 euro 
